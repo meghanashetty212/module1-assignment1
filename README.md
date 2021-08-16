@@ -20,7 +20,6 @@
     <section1>
         <h2>Employee Profile</h2>
         <h4>Photo</h4>
-       
        <img src="https://www.headshotsprague.com/wp-content/uploads/2019/08/Emotional-headshot-of-aspiring-actress-on-white-background-made-by-Headshots-Prague-1.jpg" width="150" height="150">
        
         <p >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jenny </p>
