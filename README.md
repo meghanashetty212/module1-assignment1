@@ -1,7 +1,6 @@
 # module1-assignment1
 
 <!DOCTYPE html>
-
 <head>
     
     <title>MODULE1-ASSIGNMENT-1</title>
@@ -22,7 +21,7 @@
         <h2>Employee Profile</h2>
         <h4>Photo</h4>
        
-        <img src="https://www.headshotsprague.com/wp-content/uploads/2019/08/Emotional-headshot-of-aspiring-actress-on-white-background-made-by-Headshots-Prague-1.jpg" width="150" height="150">
+       <img src="https://www.headshotsprague.com/wp-content/uploads/2019/08/Emotional-headshot-of-aspiring-actress-on-white-background-made-by-Headshots-Prague-1.jpg" width="150" height="150">
        
         <p >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jenny </p>
         <h3>Personal Data</h3>
